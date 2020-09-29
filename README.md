@@ -1,4 +1,4 @@
-### Hey my name is [Willie!](https://www.linkedin.com/in/williamrumbos/) 👋
+### Hey, my name is [Willie!](https://www.linkedin.com/in/williamrumbos/) 👋
 
 I am a second-year civil engineering student at North Carolina State University Go Pack! I'm currently teaching myself Python with an emphasis on scientific computing, data analysis, and machine learning.
 
